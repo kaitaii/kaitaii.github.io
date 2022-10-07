@@ -7,8 +7,11 @@
  I've taken lots of classes at Lawrence. Here's a few.
  
  -STAT/CMSC 255
+ 
  -STAT/CMSC 205
+ 
  -Math 155, 200, 230
+ 
  -Econ 100, 223, 280, 300
  
  Here's a picture of ...
