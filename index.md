@@ -2,7 +2,7 @@
 
  This is my personal web page for the data science club tutorial
  
- ##Classes I've Taken
+ ## Classes I've Taken
  
  I've taken lots of classes at Lawrence. Here's a few.
  
