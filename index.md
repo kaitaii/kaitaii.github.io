@@ -12,7 +12,7 @@
  
  -Math 155, 200, 230
  
- -Econ 100, 223, 280, 300
+ -Econ 100, 223, 225, 280, 300
  
  Here's a picture of ...
  ![gengar](https://art.ngfiles.com/images/301000/301157_cogmoses_gengar.png?f1399440690.jpg)
