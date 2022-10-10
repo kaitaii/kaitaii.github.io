@@ -15,6 +15,6 @@
  -Econ 100, 223, 280, 300
  
  Here's a picture of ...
- ![name](url.jpg)
+ ![gengar](https://art.ngfiles.com/images/301000/301157_cogmoses_gengar.png?f1399440690.jpg)
  
  Here's my ....
